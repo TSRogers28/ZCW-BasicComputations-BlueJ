@@ -1,18 +1,20 @@
- 
 
 
 public class IntegerPrinter {
 
     public String printIntegerAsBinary(int value){
-        return null;
+        System.out.println(Integer.toString(value, 2));
+        return Integer.toString(value, 2);
     }
 
     public String printIntegerAsOctal(int value){
-        return null;
+        System.out.println(Integer.toString(value, 8));
+        return Integer.toString(value, 8);
     }
 
     public String printIntegerAsHexadecimal(int value){
-        return null;
+        System.out.println(Integer.toString(value, 16));
+        return Integer.toString(value, 16);
     }
 
     public static void main(String[] args){

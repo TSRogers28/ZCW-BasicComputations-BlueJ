@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ShortCalculator
+comment1.params=
+comment1.target=ShortCalculator()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=first\ second
+comment3.target=short\ getSum(short,\ short)
+comment4.params=first\ second
+comment4.target=short\ getDifference(short,\ short)
+comment5.params=first\ second
+comment5.target=short\ getProduct(short,\ short)
+comment6.params=first\ second
+comment6.target=short\ getQuotient(short,\ short)
+comment7.params=first\ second
+comment7.target=short\ getRemainder(short,\ short)
+numComments=8
